@@ -1,0 +1,28 @@
+{
+  "manga_info": {
+    "title": "",
+    "original_title": "",
+    "author": [],
+    "artist": [],
+    "circle": [],
+    "scanlator": [],
+    "translator": [],
+    "publisher": "",
+    "description": "",
+    "status": "",
+    "chapters": null,
+    "pages": "",
+    "tags": {
+      "female": [],
+      "male": [],
+      "misc": []
+    },
+    "type": "",
+    "language": [],
+    "released": "",
+    "characters": [],
+    "series": "",
+    "parody": [],
+    "url": ""
+  }
+}
